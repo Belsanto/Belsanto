@@ -24,7 +24,7 @@ Proyectos Destacados
 # - 🧑🏽‍🌾Sobre mí
   Soy una persona dedicada y entusiasta por aprender y mejorar constantemente mis habilidades en el campo del desarrollo de software. Actualmente, soy estudiante de ingeniería de sistemas y computación en la jornada nocturna, y me encuentro en el octavo semestre de mi formación académica.
 
-#-👨‍💼Habilidades y Tecnologías
+# -👨‍💼Habilidades y Tecnologías
     Lenguajes de Programación: Java, JavaScript, PHP, Python, TypeScript, C
     Desarrollo Web: HTML, CSS, JavaScript, Angular, Spring Boot
     Bases de Datos: Oracle SQL Server, MySQL, phpMyAdmin
