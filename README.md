@@ -18,7 +18,7 @@ Proyectos Destacados
 [Proyecto 3](enlace al proyecto 3): Descripción breve del proyecto y sus resultados.
 -->
 
-# ¡Hola! 👋
+# ¡Hola! 👋😄
 ## ¡Bienvenido a mi perfil de GitHub! Soy Santiago Velandia Gallo, un apasionado por la tecnología y el desarrollo de software 🌿👩‍💻.
 
 # - 🧑🏽‍🌾Sobre mí
@@ -39,4 +39,4 @@ Proyectos Destacados
 # - 📫 Contacto
   ¡Estoy siempre interesado en colaborar en proyectos emocionantes y aprender de nuevas experiencias! Si tienes alguna pregunta o deseas trabajar juntos, no dudes en contactarme a través de b.elsanto182@gmail.com.
 
-## ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres mis proyectos interesantes y/o útiles. ¡Nos vemos en el mundo del código! 😄
+## ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres mis proyectos interesantes y/o útiles. 😬 
