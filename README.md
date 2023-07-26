@@ -32,7 +32,7 @@ Proyectos Destacados
     Testing y Calidad: Fundamentos de pruebas de software, diseño de interfaces web
     Soporte y Mantenimiento: Resolución de problemas técnicos en hardware y software
     Gestión de Bases de Datos: Administración y optimización de bases de datos
-# -😄 Pronombres: 
+# -🤵🏽 Pronombres: 
   Él/él.
 # -⚡ Dato curioso (Fun fact): 
   ¡Me encantan los paisajes naturales! Disfruto explorando nuevos lugares y capturando la belleza de la naturaleza y la sociedad a través de la fotografía. 🏞️📸
