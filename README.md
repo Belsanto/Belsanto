@@ -28,7 +28,7 @@ Proyectos Destacados
     Lenguajes de Programación: Java, JavaScript, PHP, Python, TypeScript, C
     Desarrollo Web: HTML, CSS, JavaScript, Angular, Spring Boot
     Bases de Datos: Oracle SQL Server, MySQL, phpMyAdmin
-    Herramientas y Frameworks: JIRA, Oracle Application Express (APEX), NetBeans, Git, Docker
+    Herramientas: JIRA, Oracle Application Express (APEX), NetBeans, Git, Docker
     Testing y Calidad: Fundamentos de pruebas de software, diseño de interfaces web
     Soporte y Mantenimiento: Resolución de problemas técnicos en hardware y software
     Gestión de Bases de Datos: Administración y optimización de bases de datos
