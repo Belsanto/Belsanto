@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BelsantoUQ/BelsantoUQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +18,8 @@ Proyectos Destacados
 [Proyecto 3](enlace al proyecto 3): Descripción breve del proyecto y sus resultados.
 -->
 
-###¡Hola! 👋
-##¡Bienvenido a mi perfil de GitHub! Soy Santiago Velandia Gallo, un apasionado por la tecnología y el desarrollo de software 🌿👩‍💻.
+### ¡Hola! 👋
+## ¡Bienvenido a mi perfil de GitHub! Soy Santiago Velandia Gallo, un apasionado por la tecnología y el desarrollo de software 🌿👩‍💻.
 
 # - 🧑🏽‍🌾Sobre mí
   Soy una persona dedicada y entusiasta por aprender y mejorar constantemente mis habilidades en el campo del desarrollo de software. Actualmente, soy estudiante de ingeniería de sistemas y computación en la jornada nocturna, y me encuentro en el octavo semestre de mi formación académica.
