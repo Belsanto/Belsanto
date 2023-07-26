@@ -35,7 +35,7 @@ Proyectos Destacados
 # -😄 Pronombres: 
   Él/él.
 # -⚡ Dato curioso (Fun fact): 
-  ¡Me encantan los paisajes naturales! Disfruto explorando nuevos lugares y capturando la belleza de la naturaleza a través de la fotografía. 🏞️📸
+  ¡Me encantan los paisajes naturales! Disfruto explorando nuevos lugares y capturando la belleza de la naturaleza y la sociedad a través de la fotografía. 🏞️📸
 # - 📫 Contacto
   ¡Estoy siempre interesado en colaborar en proyectos emocionantes y aprender de nuevas experiencias! Si tienes alguna pregunta o deseas trabajar juntos, no dudes en contactarme a través de b.elsanto182@gmail.com.
 
