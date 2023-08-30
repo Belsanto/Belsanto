@@ -25,13 +25,56 @@ Proyectos Destacados
  ### Soy una persona dedicada y entusiasta por aprender y mejorar constantemente mis habilidades en el campo del desarrollo de software. Actualmente, soy estudiante de ingeniería de sistemas y computación en la jornada nocturna, y me encuentro en el noveno semestre de mi formación académica.
 
 # -👨‍💼Habilidades y Tecnologías
-    Lenguajes de Programación: Java, JavaScript, PHP, Python, TypeScript, C
-    Desarrollo Web: HTML, CSS, JavaScript, Angular, Spring Boot
-    Bases de Datos: Oracle SQL Server, MySQL, phpMyAdmin
-    Herramientas: JIRA, Oracle Application Express (APEX), NetBeans, Git, Docker
-    Testing y Calidad: Fundamentos de pruebas de software, diseño de interfaces web
-    Soporte y Mantenimiento: Resolución de problemas técnicos en hardware y software
-    Gestión de Bases de Datos: Administración y optimización de bases de datos
+    {
+  "Lenguajes de Programación": [
+    "Java",
+    "JavaScript",
+    "PHP",
+    "Python",
+    "TypeScript",
+    "C"
+  ],
+  "Desarrollo Web": {
+    "Frontend": [
+      "HTML",
+      "CSS",
+      "React",
+      "Angular"
+    ],
+    "Backend": [
+      "Spring Boot",
+      "FastApi"
+    ]
+  },
+  "Bases de Datos": {
+    "Sistemas de Gestión": [
+      "Oracle",
+      "SQL Server",
+      "MySQL"
+    ],
+    "Herramientas": [
+      "phpMyAdmin"
+    ]
+  },
+  "Herramientas": [
+    "JIRA",
+    "Oracle Application Express (APEX)",
+    "NetBeans",
+    "Git",
+    "Docker"
+  ],
+  "Testing y Calidad": [
+    "Fundamentos de pruebas de software",
+    "Diseño de interfaces web"
+  ],
+  "Soporte y Mantenimiento": [
+    "Resolución de problemas técnicos en hardware y software"
+  ],
+  "Gestión de Bases de Datos": [
+    "Administración y optimización de bases de datos"
+  ]
+}
+
 # -🤵🏽 Pronombres: 
   Él/él.
 # -⚡ Dato curioso (Fun fact): 
