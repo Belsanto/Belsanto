@@ -25,6 +25,7 @@ Proyectos Destacados
  ### Soy una persona dedicada y entusiasta por aprender y mejorar constantemente mis habilidades en el campo del desarrollo de software. Actualmente, soy estudiante de ingeniería de sistemas y computación en la jornada nocturna, y me encuentro en el noveno semestre de mi formación académica.
 
 # -👨‍💼Habilidades y Tecnologías
+```json
     {
   "Lenguajes de Programación": [
     "Java",
@@ -74,7 +75,7 @@ Proyectos Destacados
     "Administración y optimización de bases de datos"
   ]
 }
-
+```
 # -🤵🏽 Pronombres: 
   Él/él.
 # -⚡ Dato curioso (Fun fact): 
