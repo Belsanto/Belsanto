@@ -64,6 +64,10 @@ Proyectos Destacados
     "Git",
     "Docker"
   ],
+  "Automatización": {
+    "Puppeteer": "Automatización de navegadores para pruebas y web scraping en JavaScript.",
+    "Playwright": "Librería para automatización de navegadores en múltiples motores (Chromium, Firefox, WebKit)."
+  },
   "Testing y Calidad": [
     "Fundamentos de pruebas de software",
     "Diseño de interfaces web"
