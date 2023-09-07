@@ -56,6 +56,7 @@ Proyectos Destacados
     "Herramientas": [
       "phpMyAdmin",
       "MySQL Workbench"
+   ]
   },
   "Herramientas": [
     "JIRA",
