@@ -18,16 +18,17 @@ Proyectos Destacados
 [Proyecto 3](enlace al proyecto 3): Descripción breve del proyecto y sus resultados.
 -->
 
-# ¡Hola! 👋😄 revisa mi portfolio https://belsanto.site/ 
-## ¡Bienvenido a mi perfil de GitHub! Soy Santiago Velandia Gallo, un apasionado por la tecnología y el desarrollo de software 🌿👩‍💻.
+# Hello! 👋😄 Check out my portfolio at [belsanto.site](https://belsanto.site/)
 
-# - 🧑🏽‍🌾Sobre mí
- ### Soy una persona dedicada y entusiasta por aprender y mejorar constantemente mis habilidades en el campo del desarrollo de software. Actualmente, soy estudiante de ingeniería de sistemas y computación en la jornada nocturna, y me encuentro en el noveno semestre de mi formación académica.
+## Welcome to my GitHub Profile! I am Santiago Velandia Gallo, a passionate technologist and software developer 🌿👩‍💻.
 
-# -👨‍💼Habilidades y Tecnologías
+# - 🧑🏽‍🌾 About Me
+### I am a dedicated individual enthusiastic about continuously learning and enhancing my skills in the field of software development. Currently, I am a night-shift student pursuing a degree in Systems and Computer Engineering, and I am in the ninth semester of my academic journey.
+
+# -👨‍💼 Skills and Technologies
 ```json
-    {
-  "Lenguajes de Programación": [
+{
+  "Programming Languages": [
     "Java",
     "JavaScript",
     "PHP",
@@ -35,7 +36,7 @@ Proyectos Destacados
     "TypeScript",
     "C"
   ],
-  "Desarrollo Web": {
+  "Web Development": {
     "Frontend": [
       "HTML",
       "CSS",
@@ -47,45 +48,43 @@ Proyectos Destacados
       "FastApi"
     ]
   },
-  "Bases de Datos": {
-    "Sistemas de Gestión": [
+  "Databases": {
+    "Management Systems": [
       "Oracle",
       "SQL Server",
       "MySQL"
     ],
-    "Herramientas": [
+    "Tools": [
       "phpMyAdmin",
       "MySQL Workbench"
-   ]
+    ]
   },
-  "Herramientas": [
+  "Tools": [
     "JIRA",
     "Oracle Application Express (APEX)",
     "NetBeans",
     "Git",
     "Docker"
   ],
-  "Automatización": {
-    "Puppeteer": "Automatización de navegadores para pruebas y web scraping en JavaScript.",
-    "Playwright": "Librería para automatización de navegadores en múltiples motores (Chromium, Firefox, WebKit)."
+  "Automation": {
+    "Puppeteer": "Browser automation for testing and web scraping in JavaScript.",
+    "Playwright": "Library for automating browsers on multiple engines (Chromium, Firefox, WebKit)."
   },
-  "Testing y Calidad": [
-    "Fundamentos de pruebas de software",
-    "Diseño de interfaces web"
+  "Testing and Quality": [
+    "Fundamentals of software testing",
+    "Web interface design"
   ],
-  "Soporte y Mantenimiento": [
-    "Resolución de problemas técnicos en hardware y software"
+  "Support and Maintenance": [
+    "Troubleshooting technical issues in hardware and software"
   ],
-  "Gestión de Bases de Datos": [
-    "Administración y optimización de bases de datos"
+  "Database Management": [
+    "Administration and optimization of databases"
   ]
 }
+
 ```
 # -🤵🏽 Pronombres: 
-  Él/él.
-# -⚡ Dato curioso (Fun fact): 
-  Actualmente me encuentro en proceso aprendizaje de desarrollo de videojuegos con Unity
-# - 📫 Contacto
-  ¡Estoy siempre interesado en colaborar en proyectos emocionantes y aprender de nuevas experiencias! Si tienes alguna pregunta o deseas trabajar juntos, no dudes en contactarme a través de b.elsanto182@gmail.com.
+  He/Him.
+# -⚡ I am currently in the process of learning Unity game development. 
 
-## ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres mis proyectos interesantes y/o útiles. 😬 
+# Thank you for visiting my GitHub profile! I hope you find my projects interesting and/or useful. 😬
