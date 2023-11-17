@@ -34,7 +34,7 @@ Proyectos Destacados
     "PHP",
     "Python",
     "TypeScript",
-    "C"
+    "C#"
   ],
   "Web Development": {
     "Frontend": [
