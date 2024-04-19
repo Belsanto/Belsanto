@@ -50,41 +50,10 @@ Proyectos Destacados
   },
   "Databases": {
     "Management Systems": [
-      "Oracle",
-      "SQL Server",
+      "SQL Oracle",
       "MySQL"
-    ],
-    "Tools": [
-      "phpMyAdmin",
-      "MySQL Workbench"
     ]
-  },
-  "Tools": [
-    "JIRA",
-    "Oracle Application Express (APEX)",
-    "NetBeans",
-    "Git",
-    "Docker"
-  ],
-  "Automation": {
-    "Puppeteer": "Browser automation for testing and web scraping in JavaScript.",
-    "Playwright": "Library for automating browsers on multiple engines (Chromium, Firefox, WebKit)."
-  },
-  "Testing and Quality": [
-    "Fundamentals of software testing",
-    "Web interface design"
-  ],
-  "Support and Maintenance": [
-    "Troubleshooting technical issues in hardware and software"
-  ],
-  "Database Management": [
-    "Administration and optimization of databases"
-  ]
+  }
 }
-
-```
-# -🤵🏽 Pronombres: 
-  He/Him.
-# -⚡ I am currently in the process of learning Unity game development. 
 
 # Thank you for visiting my GitHub profile! I hope you find my projects interesting and/or useful. 😬
