@@ -22,9 +22,6 @@ Proyectos Destacados
 
 ## Welcome to my GitHub Profile! my name is Santiago Velandia Gallo, I'm a passionate technologist and software developer 🌿👩‍💻.
 
-# - 🧑🏽‍🌾 About Me
-### I am a dedicated individual enthusiastic about continuously learning and enhancing my skills in the field of software development. Currently, I am a night-shift student pursuing a degree in Systems and Computer Engineering, and I am in the ninth semester of my academic journey.
-
 # -👨‍💼 Skills and Technologies
 ```json
 {
