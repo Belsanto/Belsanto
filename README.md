@@ -45,6 +45,11 @@ Proyectos Destacados
       "FastApi"
     ]
   },
+  "Other technologies": {
+    "Game developer": [
+      "UNITY"
+    ]
+  },
   "Databases": {
     "Management Systems": [
       "SQL Oracle",
